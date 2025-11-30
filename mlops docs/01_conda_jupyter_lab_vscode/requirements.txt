@@ -1,0 +1,7 @@
+pandas==2.2.3
+jupyterlab==4.5.0
+scikit-learn==1.5.2
+mlflow==3.5.1
+boto3==1.35.54
+langchain==0.3.27
+langchain-google-genai>=0.1.0
